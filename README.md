@@ -39,4 +39,7 @@ add code using backquote
 
 
 
+```# Inflam
 
+![Continuous Integration build in GitHub Actions](https://github.com/<your_github_username>/python-intermediate-inflammation/workflows/CI/badge.svg?branch=main)
+```
