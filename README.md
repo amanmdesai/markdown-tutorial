@@ -45,5 +45,6 @@ add code using backquote
 ```
 
 ## Images
-
+ ```
 ![alternative text](/path/to/image.png "text seen when mouse hovers")
+```
